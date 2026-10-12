@@ -1,0 +1,17 @@
+
+__pycache__/
+
+*.pyc
+
+tickets.json
+
+tickets.json.tmp
+
+.venv/
+
+.vscode/
+
+.idea/
+
+.DS_Store
+
